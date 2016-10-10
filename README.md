@@ -1,5 +1,5 @@
 # Blight_Analysis
 
-Repository for  blight analysis using detroit crime , blight violation and demolition premit data.
+Repository for  blight analysis using detroit crime , blight violation and demolition permit data.
 
 The datasets provided can be found at the Detroit Open Data Portal.
